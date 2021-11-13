@@ -1,0 +1,417 @@
+,Course Code,INSTITUTION and COURSE,pointsR1,pointsR2,Round1Points,Round2Points
+0,AL605,Music and Instrument Technology,211,,211,
+1,AL630,Pharmacy Technician,308,,308,
+2,AL631,Dental Nursing,311,,311,
+3,AL632,Applied Science,297,,297,
+4,AL650,Business,AQA,AQA,,
+5,AL660,Culinary Arts,AQA,AQA,,
+6,AL661,Bar Supervision,AQA,,,
+7,AL663,Business (Sport and Recreation),AQA,AQA,,
+8,AL701,Computer Engineering for Network Infrastructure,207,,207,
+9,AL702,Software Design in Artificial Intelligence for Clo,220,,220,
+10,AL703,Software Design for Virtual Reality and Gaming,211,,211,
+11,AL704,Computer Engineering,210,,210,
+12,AL705,Software Design for Mobile Apps and Connected Devi,250,,250,
+13,AL710,Mechanical Engineering,243,,243,
+14,AL711,Mechanical Engineering and Renewable Energy,238,,238,
+15,AL712,Automation and Robotics,247,,247,
+16,AL713,Engineering (Common Entry to Automation and Roboti,226,,226,
+17,AL718,Music and Sound Engineering,242,,242,
+18,AL721,Civil Engineering,242,,242,
+19,AL730,Biotechnology,261,,261,
+20,AL731,Veterinary Nursing,421,,421,
+21,AL734,Pharmaceutical Sciences (Drug Development and Anal,244,,244,
+22,AL740,Exercise and Health Science,251,,251,
+23,AL751,Digital Marketing,241,,241,
+24,AL752,Business,223,,223,
+25,AL761,Hotel and Leisure Management,AQA,AQA,,
+26,AL763,Graphic Design (portfolio),#642,,642,
+27,AL764,Early Years Care and Education,260,,260,
+28,AL765,Applied Social Studies in Social Care,300,,300,
+29,CW006,Business,171,157,171,157
+30,CW027,Sustainable Farm Management and Agribusiness,236,222,236,222
+31,CW037,Business (options),279,,279,
+32,CW047,Visual Communications and Design,241,,241,
+33,CW057,Art (portfolio),#700,,700,
+34,CW077,Tourism and Event Management,223,,223,
+35,CW106,Physiology and Health Science,451,,451,
+36,CW107,Analytical Science,261,,261,
+37,CW116,Pharmacy Technician Studies,224,,224,
+38,CW117,Biosciences,215,,215,
+39,CW126,Science - Applied Biology or Applied Chemistry,251,,251,
+40,CW206,Computing - Applications or Programming,236,,236,
+41,CW207,Software Development,245,,245,
+42,CW217,Information Technology Management,269,,269,
+43,CW227,Cybercrime and IT Security,220,,220,
+44,CW237,Computing in Interactive Digital Art and Design,227,,227,
+45,CW407,Architectural Technology,234,,234,
+46,CW417,Construction Management with Building Services,225,205,225,205
+47,CW427,Civil Engineering,208,,208,
+48,CW507,Aircraft Systems,293,,293,
+49,CW517,Mechanical Engineering,290,280,290,280
+50,CW527,Electronic Engineering,226,,226,
+51,CW547,TV and Media Production,303,,303,
+52,CW706,Legal Studies,174,,174,
+53,CW707,Industrial Design,241,,241,
+54,CW717,Professional Social Care Practice,271,262,271,262
+55,CW807,Sport Coaching and Business Management - GAA (port,#700,,700,
+56,CW817,Sport Coaching and Business Management - Rugby (po,#700,,700,
+57,CW827,Sport Coaching and Business Management - Soccer (p,#700,,700,
+58,CW837,Digital Marketing with Analytics,215,,215,
+59,CW906,Business,164,,164,
+60,CW917,Business (options),228,,228,
+61,CW926,Business with Law,204,,204,
+62,CW936,Accounting,207,,207,
+63,PC402,Arts and Humanities,203,113,203,113
+64,PC404,Applied Social Studies - Professional Social Care,200,100,200,100
+65,CR001,Applied Physics and Instrumentation,292,,292,
+66,CR006,Applied Biosciences,420,,420,
+67,CR007,Analytical and Pharmaceutical Chemistry,272,,272,
+68,CR010,Agriculture (Year 1 - 2 days in Clonakilty Agri Co,336,,336,
+69,CR016,Software Development,351,,351,
+70,CR021,Business (Common Entry),253,,253,
+71,CR022,Business Administration,172,,172,
+72,CR031,Social Care Work,360,,360,
+73,CR032,Recreation and Leisure Management,343,,343,
+74,CR035,Community Development,133,,133,
+75,CR041,Tourism Management,212,180,212,180
+76,CR042,Hospitality Management,205,,205,
+77,CR046,Automotive Technology and Management,227,,227,
+78,CR051,Civil Engineering,261,,261,
+79,CR052,Construction,270,,270,
+80,CR053,Interior Architecture,375,,375,
+81,CR055,Environmental Engineering,297,,297,
+82,CR061,Electronic Engineering,300,,300,
+83,CR062,Electrical Engineering,320,,320,
+84,CR071,Mechanical Engineering,263,,263,
+85,CR075,Biomedical Engineering,315,,315,
+86,CR090,Architectural Technology,308,,308,
+87,CR094,Nautical Science at National Maritime College of I,256,,256,
+88,CR095,Marine Engineering at National Maritime College of,234,,234,
+89,CR300,Physical Sciences (Common Entry),260,,260,
+90,CR620,Early Childhood Education and Care,397,377,397,377
+91,CR640,Culinary Arts,220,178,220,178
+92,CR650,Beverage Industry Management,193,162,193,162
+93,CR655,Culinary Studies,196,113,196,113
+94,CR657,Hospitality Studies,171,,171,
+95,CR805,Marine Electrotechnology at National Maritime Coll,229,,229,
+96,CR888,Information Technology,300,,300,
+97,DS602,Higher Certificate in Science in Computing Level 6,120,,120,
+98,DS701,Bachelor of Business Level 7 (3 years),136,,136,
+99,DS702,BSc in Computing Level 7 (3 years),136,,136,
+100,DB528,Applied Social Care,146,104,146,104
+101,DB534,Sound Engineering and Music Production,139,139,139,139
+102,DB563,Arts,143,143,143,143
+103,DB571,Business Studies,113,113,113,113
+104,DB572,Business (Accounting),141,141,141,141
+105,DB573,Business (Marketing),169,137,169,137
+106,DB574,Business (Information Technology),173,173,173,173
+107,DB576,Film and Creative Media,101,101,101,101
+108,DL701,Business - Applied Entrepreneurship,162,162,162,162
+109,GC335,Computing,171,171,171,171
+110,GC410,Marketing,122,122,122,122
+111,GC411,Business,180,180,180,180
+112,GC435,Computing,108,108,108,108
+113,GC460,Music Production for Games (portfolio),,,,
+114,GC465,Communications,118,118,118,118
+115,GC466,Film and TV Production,121,121,121,121
+116,GC470,Photographic Media,163,163,163,163
+117,GC475,Photography,125,125,125,125
+118,GC490,Interior Design,137,137,137,137
+119,GC495,Fashion,110,110,110,110
+120,BY002,Business,347,171,347,171
+121,NC102,Computing,225,,225,
+122,NC103,Business,252,,252,
+123,NC104,Business Computing,242,,242,
+124,NM701,Montessori Education,137,137,137,137
+125,TU605,Electronic and Information Engineering,190,,190,
+126,TU606,Mechanical Engineering (General Entry),192,,192,
+127,TU641,Bar and Restaurant Management,243,,243,
+128,TU642,Culinary Arts (Cuisine and Wellness),154,,154,
+129,TU643,Culinary Arts (Professional Cookery Practice),242,,242,
+130,TU644,Food Management and Entrepreneurship,250,,250,
+131,TU645,Food Science and Management,251,,251,
+132,TU651,Applied Biology,361,,361,
+133,TU652,Computing,240,,240,
+134,TU654,Pharmacy Technician Studies,350,,350,
+135,TU655,Computing (Networking Technologies) Learn and Work,#502,,502,
+136,TU670,Business (campus options),224,,224,
+137,TU673,Business Management,301,,301,
+138,TU674,Business Studies,307,,307,
+139,TU675,Marketing,301,,301,
+140,TU676,Retail Management and Marketing,290,,290,
+141,TU701,Automation Engineering,243,,243,
+142,TU702,Sustainable Energy and Environmental Engineering,249,,249,
+143,TU703,Building Engineering,273,,273,
+144,TU704,Civil Engineering,260,,260,
+145,TU705,Electrical and Control Engineering,272,,272,
+146,TU706,Electrical Services Engineering,245,,245,
+147,TU708,Engineering (Common Entry with Award options),117,263v,117,263
+148,TU709,Engineering (General Entry),400,,400,
+149,TU711,Mechatronic Engineering,225,,225,
+150,TU713,Computer Engineering,222,,222,
+151,TU714,Electronics and Communications Engineering,262,,262,
+152,TU716,Networking Technology,249,,249,
+153,TU717,Mechanical Engineering,301,,301,
+154,TU719,Design Technology and Innovation,261,,261,
+155,TU720,Automotive Management and Technology,232,,232,
+156,TU721,Aviation Technology,302,,302,
+157,TU722,Process Instrumentation and Automation Learn and W,#346,#346,346,346
+158,TU725,Mechanical Engineering (General Entry),222,,222,
+159,TU726,Electronic Engineering (General Entry),215,,215,
+160,TU731,Auctioneering  Valuation and Estate Agency,330,,330,
+161,TU735,Sports Management and Coaching,270,,270,
+162,TU736,Sports Science and Health,484,,484,
+163,TU737,Sports Studies,250,,250,
+164,TU741,Baking and Pastry Arts Management,231,,231,
+165,TU742,Culinary Arts,158,,158,
+166,TU745,Hospitality Management,252,,252,
+167,TU746,International Hospitality and Tourism Management,157,144,157,144
+168,TU747,Tourism Management,263,,263,
+169,TU751,Biosciences,418,,418,
+170,TU752,DNA and Forensic Analysis,500,442,500,442
+171,TU754,Industrial and Environmental Physics,273,,273,
+172,TU755,Science (General Entry),361,,361,
+173,TU756,Computing,201,,201,
+174,TU757,Computing (Information Technology),227,,227,
+175,TU758,Digital Forensics and Cyber Security,223,,223,
+176,TU760,Bioanalysis,360,,360,
+177,TU761,Ophthalmic Dispensing,316,,316,
+178,TU762,Medicinal Chemistry and Pharmaceutical Sciences,320,,320,
+179,TU763,Pharmaceutical Science,391,,391,
+180,TU772,Business (options),AQA,250v,,250
+181,TU780,Advertising and Marketing Communications,201,190,201,190
+182,TU781,Digital Marketing,223,,223,
+183,TU782,Digital Marketing,200,185,200,185
+184,TU787,Business (options),200,180,200,180
+185,TU788,Accounting and Finance (campus options),231,,231,
+186,TU790,Early Childhood Care and Education (campus options,223,,223,
+187,TU791,Applied Social Studies in Social Care,320,,320,
+188,TU792,Community and Youth Development,AQA,242v,,242
+189,TU795,Visual Merchandising and Display,#618,,618,
+190,TU796,Creative Digital Media,224,,224,
+191,TR801,Dental Nursing,490,485,490,485
+192,TR802,Dental Hygiene,#577,#565,577,565
+193,TR803,Dental Technology,#543,#498*,543,498
+194,DK710,Business and Management,120,120,120,120
+195,DK711,Business and Technology,140,140,140,140
+196,DK712,Digital Marketing and Public Relations,206,195,206,195
+197,DK721,Computing,120,120,120,120
+198,DK722,Augmented and Virtual Reality,207,207,207,207
+199,DK730,Building Surveying,243,204,243,204
+200,DK731,Architectural Technology,253,210,253,210
+201,DK732,Construction Management,243,229,243,229
+202,DK740,Engineering - Electrical and Electronic Systems,163,163,163,163
+203,DK742,Engineering - Mechanical Engineering,166,166,166,166
+204,DK744,Engineering - Civil Engineering,165,165,165,165
+205,DK750,Hospitality Management,223,157,223,157
+206,DK752,Event Management,224,211,224,211
+207,DK753,Culinary Arts,192,192,192,192
+208,DK763,Sport  Exercise and Enterprise,205,165,205,165
+209,DK767,Community Youth Work (interview),#240,#240,240,240
+210,DK768,Audio and Music Production,329,285,329,285
+211,DK769,Creative Media,265,209,265,209
+212,DK770,Theatre and Film Practice,140,140,140,140
+213,DK771,Musical Theatre (audition),,,,
+214,DK781,Science - Bioscience,376,,376,
+215,DK783,Science - Pharmaceutical Science,346,,346,
+216,DK784,Veterinary Nursing,451,430,451,430
+217,GA160,Business (Level 6),168,168,168,168
+218,GA170,Business (Level 7),252,,252,
+219,GA171,Business Information Systems,253,,253,
+220,GA172,Rural Enterprise and Agri-Business,278,,278,
+221,GA174,Marketing and Sales,278,,278,
+222,GA175,Finance,318,,318,
+223,GA176,Business with Entrepreneurship,278,,278,
+224,GA272,Heritage Studies,174,174,174,174
+225,GA273,Contemporary Art (portfolio),#775,,775,
+226,GA274,Design,271,,271,
+227,GA360,Business in Tourism,171,,171,
+228,GA361,Culinary Arts,181,,181,
+229,GA362,Hotel and Hospitality Operations,162,162,162,162
+230,GA364,Heritage Studies,252,252,252,252
+231,GA370,Hotel and Catering Management,163,163,163,163
+232,GA376,Event Management with Public Relations,216,,216,
+233,GA377,International Tourism Management,180,180,180,180
+234,GA378,Culinary and Gastronomic Science,200,160,200,160
+235,GA470,Construction Management,246,,246,
+236,GA471,Quantity Surveying and Construction Economics,234,,234,
+237,GA472,Architectural Technology,260,,260,
+238,GA473,Civil Engineering,304,,304,
+239,GA570,Software and Electronic Engineering,225,,225,
+240,GA670,Mechanical Engineering,294,,294,
+241,GA673,Energy Engineering,279,,279,
+242,GA674,Biomedical Engineering,308,,308,
+243,GA675,Agricultural Engineering,290,,290,
+244,GA676,Engineering (Common Entry to Manu/Agri/Biomed/Ener,304,,304,
+245,GA677,Manufacturing Engineering Design,308,,308,
+246,GA770,Applied Freshwater and Marine Biology,303,,303,
+247,GA771,Applied Biology and Biopharmaceutical Science,302,,302,
+248,GA772,Chemical and Pharmaceutical Science,310,,310,
+249,GA773,Physics and Instrumentation,302,,302,
+250,GA774,Science (Undenominated),302,,302,
+251,GA775,Computing in Software Development,280,,280,
+252,GA776,Computing and Digital Media,244,,244,
+253,GA777,Agriculture and Environmental Management,281,,281,
+254,GA862,History and Geography,195,195,195,195
+255,GA864,Early Childhood Education and Care,170,170,170,170
+256,GA870,Outdoor Education and Leisure,166,166,166,166
+257,GA871,Early Childhood Education and Care,196,,196,
+258,GA872,Culture and Environment,201,,201,
+259,GA876,Community Development and Youth Work (Level 7),,,,
+260,GA879,Applied Social Care,241,,241,
+261,GA970,Furniture Design and Manufacture,302,,302,
+262,GA971,Furniture Making and Architectural Woodworking,369,,369,
+263,GA973,Furniture and Digital Manufacturing,,,,
+264,GA974,Furniture Design  Making and Technology - Common E,422,,422,
+265,GB001,Business,,,,
+266,LY107,Business - Common Entry,189,189,189,189
+267,LY206,Sports Studies,147,126,147,126
+268,LY207,Law with Criminal Justice,161,161,161,161
+269,LY317,Culinary Arts,205,186,205,186
+270,LY327,Hospitality And Tourism - Common Entry,180,178,180,178
+271,LY427,Digital Film and Video,217,217,217,217
+272,LY437,Animation,#183,,183,
+273,LY447,Fashion with Promotion,#189,,189,
+274,LY457,Graphic and Digital Design,#188,#188,188,188
+275,LY507,Quantity Surveying,204,163,204,163
+276,LY527,Civil Engineering,164,164,164,164
+277,LY606,Electric Vehicle Engineering,216,149,216,149
+278,LY607,Electronic Engineering,198,198,198,198
+279,LY617,Mechanical Engineering,163,163,163,163
+280,LY707,Computer Games Development,206,,206,
+281,LY717,Computing,180,160,180,160
+282,LY737,Computer Security and Digital Forensics,161,161,161,161
+283,LY806,Pharmacy Technician,172,172,172,172
+284,LY816,Dental Nursing,180,,180,
+285,LY817,Bioscience,250,,250,
+286,LY826,Health Science with Physiotherapy Studies,487,476,487,476
+287,LY836,Health Science with Occupational Therapy Studies,451,433,451,433
+288,LY837,Food Science and Nutrition,215,215,215,215
+289,LY846,Health Science with Dietetics Studies,336,264,336,264
+290,LY847,Veterinary Nursing,389*,,389,
+291,LY867,Pharmaceutical and Medicinal Science,179,170,179,170
+292,LY877,Agriculture,200,,200,
+293,LY906,Early Childhood Care  Health and Education,154,,154,
+294,LY916,Health and Social Care,195,180,195,180
+295,LC221,Accounting and Finance,243,,243,
+296,LC222,Marketing and Management,259,,259,
+297,LC228,Sports Development and Coaching,214,,214,
+298,LC230,Business with Computing,241,224,241,224
+299,LC235,Internet Systems Development,207,,207,
+300,LC251,Civil Engineering,205,,205,
+301,LC260,Applied Biology,338,,338,
+302,LC267,Forensic and Pharmaceutical Sciences,400,,400,
+303,LC268,Medical Technology,384,,384,
+304,LC270,Music Technology and Production,354,,354,
+305,LC271,Electrical Engineering,329,316,329,316
+306,LC276,Creative Broadcast and Film Production,310,300,310,300
+307,LC277,Industrial Automation and Robotic Systems,261,,261,
+308,LC278,Renewable and Electrical Energy Engineering,306,283,306,283
+309,LC279,Electronic Engineering with Computer Systems,242,,242,
+310,LC281,Automobile Technology,277,,277,
+311,LC283,Precision Engineering,207,,207,
+312,LC284,Agricultural Mechanisation at Salesian Agricultura,192,,192,
+313,LC285,Mechanical Engineering,299,292,299,292
+314,LC286,Road Transport Technology and Management,294,,294,
+315,LC290,Sports Development Performance,208,,208,
+316,LC322,Enterprise and Innovation,228,,228,
+317,LC336,Computing,219,,219,
+318,LC396,Beauty and Spa Services,319,309,319,309
+319,LC397,Business Studies with Sports,233,,233,
+320,LC398,Culinary Arts,215,,215,
+321,LC399,Hospitality Supervision,137,,137,
+322,LC415,Business,172,,172,
+323,LC423,Applied Strength and Conditioning,145,,145,
+324,LC425,Environmental Science,229,,229,
+325,LC504,Creative Media and Design,155,,155,
+326,LC602,Social Care Work,251,,251,
+327,LM180,Equine Science,351,,351,
+328,SG101,Business,167,120,167,120
+329,SG102,Computing (Level 6 - General Entry),254,,254,
+330,SG131,Computing - Games Development,271,,271,
+331,SG134,Applied Sport with Business,200,,200,
+332,SG135,Business in Tourism with Event Management,194,AQA,194,
+333,SG136,Computing - Software Development,279,,279,
+334,SG137,Computing in Computer Networks and Cyber Security,262,,262,
+335,SG138,Computing (Level 7 - General Entry),299,,299,
+336,SG139,Business in Marketing,269,,269,
+337,SG231,Fine Art,#375,#375,375,375
+338,SG232,Creative Design,270,AQA,270,
+339,SG235,Performing Arts (Theatre Design),205,,205,
+340,SG236,Performing Arts (Acting),204,,204,
+341,SG300,Engineering (General Entry),202,163,202,163
+342,SG302,Construction Economics,174,,174,
+343,SG308,Applied Construction Technology,199,130,199,130
+344,SG330,Engineering (General Entry),262,,262,
+345,SG331,Interior Architecture and Design,222,,222,
+346,SG332,Advanced Wood and Sustainable Building Technology,217,,217,
+347,SG333,Mechanical Engineering,225,,225,
+348,SG334,Mechatronic Engineering,290,,290,
+349,SG335,Engineering in Mechatronic Systems (Interview  Wor,,#,,
+350,SG336,Precision Engineering and Design,341,,341,
+351,SG338,Civil Engineering,226,,226,
+352,SG339,Quantity Surveying,216,,216,
+353,SG401,Science,282,128,282,128
+354,SG404,Environmental Science with Ecology (Level 6),388,,388,
+355,SG406,Health and Exercise Science,396,,396,
+356,SG431,Pharmaceutical Science with Drug Development,287,,287,
+357,SG433,Occupational Safety and Health,243,,243,
+358,SG434,Human Nutrition,299,,299,
+359,SG435,Health Science and Physiology,296,,296,
+360,SG436,Biomedical Science,260,,260,
+361,SG437,Forensic Investigation and Analysis,252,,252,
+362,SG439,Environmental Science with Ecology (Level 7),253,,253,
+363,SG530,Health and Medical Information Science (Online),387,,387,
+364,SG535,Business Administration,241,,241,
+365,SG536,Business,233,,233,
+366,TL651,Science - Biological and Environmental Studies,215,,215,
+367,TL652,Science - Pharmacy Technician,222,,222,
+368,TL701,Animation  Visual Effects and Motion Design (Level,,,,
+369,TL702,TV  Radio and New Media (Level 7),222,,222,
+370,TL710,Computing with Software Development,297,,297,
+371,TL711,Computing with Games Development,238,,238,
+372,TL715,Computing (Degree Award options),261,,261,
+373,TL716,Computer Systems and Networking,227,,227,
+374,TL731,Business (Major Specialism in: Acctng or Mktg or M,232,,232,
+375,TL742,Construction Management,,,,
+376,TL744,Agricultural Engineering,220,,220,
+377,TL745,Civil Engineering,243,243,243,243
+378,TL747,Mechanical and Automation Engineering,254,,254,
+379,TL748,Agricultural Science,233,,233,
+380,TL755,Pharmaceutical Science (Degree Award options),228,,228,
+381,TL758,Animal Bioscience,234,,234,
+382,TL771,Health and Leisure (Degree Award Options),211,,211,
+383,TL772,Health and Leisure with Massage,236,,236,
+384,TL773,Coaching and Sports Performance,207,,207,
+385,TL774,Inclusive Sport and Physical Activity,121,121,121,121
+386,TL780,Early Childhood Care and Education,100,100,100,100
+387,TL781,Social Care,261,,261,
+388,WD003,Business,AQA,AQA,,
+389,WD010,Electronic Engineering,419,,419,
+390,WD011,Mechanical Engineering,170,,170,
+391,WD013,Legal Studies,AQA,206v,,206
+392,WD018,Applied Social Care,181,,181,
+393,WD019,Recreation and Sport Management,AQA,AQA,,
+394,WD076,Forestry,216,,216,
+395,WD094,Architectural Technology,176,,176,
+396,WD096,Horticulture (Waterford - Kildalton),226,,226,
+397,WD097,Horticulture (Dublin - National Botanic Gardens),223,,223,
+398,WD126,Agriculture,328,,328,
+399,WD151,Software Systems Development,165,,165,
+400,WD153,Multimedia Applications Development,195,,195,
+401,WD155,Information Technology,195,,195,
+402,WD159,Business,191,,191,
+403,WD164,Food Science with Business,328,,328,
+404,WD172,Culinary Arts,AQA,AQA,,
+405,WD173,Hospitality Studies,158,,158,
+406,WD174,Tourism,AQA,,,
+407,WD175,Pharmaceutical Science,224,,224,
+408,WD177,Science (Mol. Biology with Biopharm. Food Science,205,455v,205,455
+409,WD182,Electrical Engineering,AQA,,,
+410,WD184,Retail Management,190,,190,
+411,WD188,Applied Health Care,220,,220,
+412,WD205,Molecular Biology with Biopharmaceutical Science,AQA,262v,,262
+413,WD206,Electronic Engineering,180,,180,
+414,WD207,Mechanical Engineering,172,,172,
+415,WD208,Manufacturing Engineering,317,,317,
