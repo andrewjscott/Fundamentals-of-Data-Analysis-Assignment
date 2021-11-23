@@ -1,0 +1,613 @@
+Course Code,Course Title,points_r1_2021,points_r2_2021,points_r1_2020,points_r2_2020,EOS 2020,EOS 2019,EOS 2018
+AL605,Music and Instrument Technology,211.0,,,,154.0,,
+AL630,Pharmacy Technician,308.0,,295.0,,295.0,306.0,306.0
+AL631,Dental Nursing,311.0,,300.0,298.0,298.0,326.0,307.0
+AL632,Applied Science,297.0,,234.0,,234.0,243.0,216.0
+AL650,Business,,,207.0,,207.0,210.0,200.0
+AL660,Culinary Arts,,,,,112.0,,
+AL661,Bar Supervision,,,,,101.0,,150.0
+AL663,Business (Sport and Recreation),,,,,120.0,,181.0
+AL701,Computer Engineering for Network Infrastructure,207.0,,216.0,,216.0,235.0,210.0
+AL702,Software Design in Artificial Intelligence for Clo,220.0,,214.0,,214.0,,
+AL703,Software Design for Virtual Reality and Gaming,211.0,,216.0,,224.0,,
+AL704,Computer Engineering,210.0,,204.0,,204.0,205.0,205.0
+AL705,Software Design for Mobile Apps and Connected Devi,250.0,,216.0,,216.0,206.0,207.0
+AL710,Mechanical Engineering,243.0,,223.0,,223.0,242.0,218.0
+AL711,Mechanical Engineering and Renewable Energy,238.0,,228.0,,228.0,231.0,252.0
+AL712,Automation and Robotics,247.0,,252.0,,252.0,269.0,283.0
+AL713,Engineering (Common Entry to Automation and Roboti,226.0,,218.0,,218.0,245.0,223.0
+AL718,Music and Sound Engineering,242.0,,214.0,,216.0,,
+AL721,Civil Engineering,242.0,,233.0,,233.0,217.0,245.0
+AL730,Biotechnology,261.0,,250.0,,250.0,232.0,206.0
+AL731,Veterinary Nursing,421.0,,400.0,,400.0,393.0,398.0
+AL734,Pharmaceutical Sciences (Drug Development and Anal,244.0,,244.0,,244.0,225.0,214.0
+AL740,Exercise and Health Science,251.0,,250.0,,250.0,241.0,
+AL751,Digital Marketing,241.0,,241.0,,241.0,226.0,222.0
+AL752,Business,223.0,,225.0,,225.0,232.0,
+AL761,Hotel and Leisure Management,,,208.0,,208.0,200.0,208.0
+AL763,Graphic Design (portfolio),642.0,,781.0,,781.0,626.0,783.0
+AL764,Early Years Care and Education,260.0,,260.0,,260.0,270.0,270.0
+AL765,Applied Social Studies in Social Care,300.0,,280.0,,280.0,281.0,278.0
+CW006,Business,171.0,157.0,,,,153.0,129.0
+CW027,Sustainable Farm Management and Agribusiness,236.0,222.0,266.0,,268.0,226.0,222.0
+CW037,Business (options),279.0,,195.0,,195.0,349.0,195.0
+CW047,Visual Communications and Design,241.0,,214.0,181.0,181.0,198.0,198.0
+CW057,Art (portfolio),700.0,,700.0,,700.0,700.0,700.0
+CW077,Tourism and Event Management,223.0,,217.0,,217.0,204.0,
+CW106,Physiology and Health Science,451.0,,451.0,,451.0,454.0,454.0
+CW107,Analytical Science,261.0,,277.0,,277.0,215.0,213.0
+CW116,Pharmacy Technician Studies,224.0,,250.0,,250.0,241.0,287.0
+CW117,Biosciences,215.0,,205.0,,205.0,205.0,214.0
+CW126,Science - Applied Biology or Applied Chemistry,251.0,,191.0,,191.0,198.0,198.0
+CW206,Computing - Applications or Programming,236.0,,235.0,,235.0,206.0,200.0
+CW207,Software Development,245.0,,244.0,,244.0,235.0,251.0
+CW217,Information Technology Management,269.0,,234.0,,234.0,234.0,234.0
+CW227,Cybercrime and IT Security,220.0,,233.0,,242.0,233.0,251.0
+CW237,Computing in Interactive Digital Art and Design,227.0,,212.0,,212.0,216.0,
+CW407,Architectural Technology,234.0,,188.0,,188.0,186.0,186.0
+CW417,Construction Management with Building Services,225.0,205.0,220.0,,220.0,215.0,226.0
+CW427,Civil Engineering,208.0,,199.0,,199.0,201.0,200.0
+CW507,Aircraft Systems,293.0,,293.0,,294.0,285.0,281.0
+CW517,Mechanical Engineering,290.0,280.0,276.0,,276.0,252.0,264.0
+CW527,Electronic Engineering,226.0,,227.0,,227.0,225.0,217.0
+CW547,TV and Media Production,303.0,,301.0,,301.0,306.0,326.0
+CW706,Legal Studies,174.0,,163.0,,163.0,196.0,202.0
+CW707,Industrial Design,241.0,,207.0,,207.0,199.0,207.0
+CW717,Professional Social Care Practice,271.0,262.0,288.0,,288.0,260.0,240.0
+CW807,Sport Coaching and Business Management - GAA (port,700.0,,700.0,,700.0,700.0,700.0
+CW817,Sport Coaching and Business Management - Rugby (po,700.0,,700.0,,700.0,700.0,700.0
+CW827,Sport Coaching and Business Management - Soccer (p,700.0,,700.0,,700.0,700.0,700.0
+CW837,Digital Marketing with Analytics,215.0,,200.0,,200.0,240.0,
+CW906,Business,164.0,,177.0,,177.0,173.0,171.0
+CW917,Business (options),228.0,,224.0,,224.0,200.0,208.0
+CW926,Business with Law,204.0,,210.0,,210.0,204.0,208.0
+CW936,Accounting,207.0,,231.0,,231.0,204.0,207.0
+PC402,Arts and Humanities,203.0,113.0,200.0,121.0,80.0,126.0,
+PC404,Applied Social Studies - Professional Social Care,200.0,100.0,217.0,197.0,175.0,,
+CR001,Applied Physics and Instrumentation,292.0,,250.0,,250.0,258.0,297.0
+CR006,Applied Biosciences,420.0,,361.0,,361.0,380.0,360.0
+CR007,Analytical and Pharmaceutical Chemistry,272.0,,240.0,,240.0,246.0,292.0
+CR010,Agriculture (Year 1 - 2 days in Clonakilty Agri Co,336.0,,321.0,,321.0,270.0,289.0
+CR016,Software Development,351.0,,307.0,,307.0,270.0,270.0
+CR021,Business (Common Entry),253.0,,255.0,,255.0,250.0,240.0
+CR022,Business Administration,172.0,,190.0,,190.0,206.0,192.0
+CR031,Social Care Work,360.0,,346.0,,346.0,326.0,326.0
+CR032,Recreation and Leisure Management,343.0,,298.0,,298.0,250.0,260.0
+CR035,Community Development,133.0,,100.0,,100.0,162.0,117.0
+CR041,Tourism Management,212.0,180.0,216.0,,216.0,180.0,185.0
+CR042,Hospitality Management,205.0,,208.0,,208.0,101.0,182.0
+CR046,Automotive Technology and Management,227.0,,216.0,,216.0,214.0,200.0
+CR051,Civil Engineering,261.0,,248.0,,248.0,244.0,226.0
+CR052,Construction,270.0,,251.0,,251.0,232.0,225.0
+CR053,Interior Architecture,375.0,,308.0,,308.0,253.0,252.0
+CR055,Environmental Engineering,297.0,,258.0,,258.0,255.0,226.0
+CR061,Electronic Engineering,300.0,,260.0,,260.0,308.0,251.0
+CR062,Electrical Engineering,320.0,,300.0,,300.0,279.0,250.0
+CR071,Mechanical Engineering,263.0,,261.0,,261.0,250.0,270.0
+CR075,Biomedical Engineering,315.0,,306.0,,306.0,350.0,312.0
+CR090,Architectural Technology,308.0,,266.0,,266.0,251.0,244.0
+CR094,Nautical Science at National Maritime College of I,256.0,,243.0,,243.0,237.0,257.0
+CR095,Marine Engineering at National Maritime College of,234.0,,255.0,,255.0,224.0,241.0
+CR300,Physical Sciences (Common Entry),260.0,,282.0,,282.0,270.0,300.0
+CR620,Early Childhood Education and Care,397.0,377.0,365.0,357.0,357.0,337.0,341.0
+CR640,Culinary Arts,220.0,178.0,244.0,,244.0,125.0,197.0
+CR650,Beverage Industry Management,193.0,162.0,209.0,,209.0,182.0,120.0
+CR655,Culinary Studies,196.0,113.0,189.0,,189.0,116.0,139.0
+CR657,Hospitality Studies,171.0,,180.0,163.0,163.0,162.0,154.0
+CR805,Marine Electrotechnology at National Maritime Coll,229.0,,235.0,,235.0,217.0,244.0
+CR888,Information Technology,300.0,,290.0,,290.0,271.0,280.0
+DS602,Higher Certificate in Science in Computing Level 6,120.0,,,,198.0,225.0,
+DS701,Bachelor of Business Level 7 (3 years),136.0,,,,299.0,,120.0
+DS702,BSc in Computing Level 7 (3 years),136.0,,,,290.0,102.0,200.0
+DB528,Applied Social Care,146.0,104.0,,,,,129.0
+DB534,Sound Engineering and Music Production,139.0,139.0,,,,179.0,164.0
+DB563,Arts,143.0,143.0,161.0,189.0,161.0,128.0,136.0
+DB571,Business Studies,113.0,113.0,173.0,211.0,122.0,134.0,146.0
+DB572,Business (Accounting),141.0,141.0,119.0,117.0,117.0,,117.0
+DB573,Business (Marketing),169.0,137.0,117.0,146.0,117.0,127.0,135.0
+DB574,Business (Information Technology),173.0,173.0,136.0,388.0,136.0,,144.0
+DB576,Film and Creative Media,101.0,101.0,,,,100.0,
+DL701,Business - Applied Entrepreneurship,162.0,162.0,,,,154.0,112.0
+GC335,Computing,171.0,171.0,217.0,195.0,195.0,213.0,207.0
+GC410,Marketing,122.0,122.0,145.0,,145.0,204.0,135.0
+GC411,Business,180.0,180.0,135.0,135.0,135.0,,155.0
+GC435,Computing,108.0,108.0,,,96.0,101.0,144.0
+GC460,Music Production for Games (portfolio),,,,,,,
+GC465,Communications,118.0,118.0,,,,144.0,136.0
+GC466,Film and TV Production,121.0,121.0,,,,100.0,
+GC470,Photographic Media,163.0,163.0,169.0,169.0,169.0,117.0,
+GC475,Photography,125.0,125.0,150.0,150.0,150.0,128.0,127.0
+GC490,Interior Design,137.0,137.0,117.0,117.0,117.0,127.0,127.0
+GC495,Fashion,110.0,110.0,129.0,129.0,129.0,136.0,155.0
+BY002,Business,347.0,171.0,,,,,
+NC102,Computing,225.0,,220.0,,220.0,220.0,234.0
+NC103,Business,252.0,,250.0,,250.0,251.0,270.0
+NC104,Business Computing,242.0,,243.0,,243.0,233.0,233.0
+NM701,Montessori Education,137.0,137.0,187.0,,187.0,143.0,108.0
+TU605,Electronic and Information Engineering,190.0,,,,,,
+TU606,Mechanical Engineering (General Entry),192.0,,,,,,
+TU641,Bar and Restaurant Management,243.0,,223.0,,223.0,,
+TU642,Culinary Arts (Cuisine and Wellness),154.0,,153.0,,153.0,,
+TU643,Culinary Arts (Professional Cookery Practice),242.0,,236.0,,236.0,,
+TU644,Food Management and Entrepreneurship,250.0,,223.0,,223.0,,
+TU645,Food Science and Management,251.0,,241.0,,243.0,,
+TU651,Applied Biology,361.0,,205.0,196.0,196.0,,
+TU652,Computing,240.0,,194.0,,194.0,,
+TU654,Pharmacy Technician Studies,350.0,,321.0,,321.0,,
+TU655,Computing (Networking Technologies) Learn and Work,502.0,,410.0,335.0,335.0,,
+TU670,Business (campus options),224.0,,,,,,
+TU673,Business Management,301.0,,300.0,,300.0,,
+TU674,Business Studies,307.0,,300.0,,306.0,,
+TU675,Marketing,301.0,,301.0,,301.0,,
+TU676,Retail Management and Marketing,290.0,,290.0,,290.0,,
+TU701,Automation Engineering,243.0,,260.0,,261.0,,
+TU702,Sustainable Energy and Environmental Engineering,249.0,,232.0,232.0,232.0,,
+TU703,Building Engineering,273.0,,260.0,,260.0,,
+TU704,Civil Engineering,260.0,,262.0,,262.0,,
+TU705,Electrical and Control Engineering,272.0,,243.0,,243.0,,
+TU706,Electrical Services Engineering,245.0,,244.0,,244.0,,
+TU708,Engineering (Common Entry with Award options),117.0,263.0,225.0,,225.0,,
+TU709,Engineering (General Entry),400.0,,370.0,,370.0,,
+TU711,Mechatronic Engineering,225.0,,223.0,,223.0,,
+TU713,Computer Engineering,222.0,,221.0,,221.0,,
+TU714,Electronics and Communications Engineering,262.0,,264.0,,264.0,,
+TU716,Networking Technology,249.0,,241.0,,241.0,,
+TU717,Mechanical Engineering,301.0,,300.0,,300.0,,
+TU719,Design Technology and Innovation,261.0,,228.0,,228.0,,
+TU720,Automotive Management and Technology,232.0,,232.0,,232.0,,
+TU721,Aviation Technology,302.0,,350.0,,352.0,,
+TU722,Process Instrumentation and Automation Learn and W,346.0,346.0,292.0,292.0,401.0,,
+TU725,Mechanical Engineering (General Entry),222.0,,,,,,
+TU726,Electronic Engineering (General Entry),215.0,,,,,,
+TU731,Auctioneering  Valuation and Estate Agency,330.0,,290.0,,290.0,,
+TU735,Sports Management and Coaching,270.0,,270.0,,270.0,,
+TU736,Sports Science and Health,484.0,,410.0,391.0,391.0,,
+TU737,Sports Studies,250.0,,,,,,
+TU741,Baking and Pastry Arts Management,231.0,,234.0,,238.0,,
+TU742,Culinary Arts,158.0,,155.0,155.0,155.0,,
+TU745,Hospitality Management,252.0,,245.0,,245.0,,
+TU746,International Hospitality and Tourism Management,157.0,144.0,170.0,170.0,170.0,,
+TU747,Tourism Management,263.0,,242.0,,242.0,,
+TU751,Biosciences,418.0,,407.0,,407.0,,
+TU752,DNA and Forensic Analysis,500.0,442.0,390.0,,390.0,,
+TU754,Industrial and Environmental Physics,273.0,,270.0,,270.0,,
+TU755,Science (General Entry),361.0,,361.0,,361.0,,
+TU756,Computing,201.0,,200.0,195.0,195.0,,
+TU757,Computing (Information Technology),227.0,,225.0,,225.0,,
+TU758,Digital Forensics and Cyber Security,223.0,,220.0,,220.0,,
+TU760,Bioanalysis,360.0,,204.0,204.0,204.0,,
+TU761,Ophthalmic Dispensing,316.0,,302.0,,319.0,,
+TU762,Medicinal Chemistry and Pharmaceutical Sciences,320.0,,364.0,,364.0,,
+TU763,Pharmaceutical Science,391.0,,382.0,349.0,349.0,,
+TU772,Business (options),,250.0,,227.0,,,
+TU780,Advertising and Marketing Communications,201.0,190.0,179.0,179.0,179.0,,
+TU781,Digital Marketing,223.0,,220.0,,220.0,,
+TU782,Digital Marketing,200.0,185.0,179.0,179.0,179.0,,
+TU787,Business (options),200.0,180.0,,,,,
+TU788,Accounting and Finance (campus options),231.0,,,,,,
+TU790,Early Childhood Care and Education (campus options,223.0,,,,,,
+TU791,Applied Social Studies in Social Care,320.0,,320.0,,320.0,,
+TU792,Community and Youth Development,,242.0,101.0,250.0,101.0,,
+TU795,Visual Merchandising and Display,618.0,,481.0,,481.0,,
+TU796,Creative Digital Media,224.0,,225.0,,225.0,,
+TR801,Dental Nursing,490.0,485.0,436.0,419.0,367.0,379.0,357.0
+TR802,Dental Hygiene,577.0,565.0,543.0,511.0,498.0,520.0,424.0
+TR803,Dental Technology,543.0,498.0,531.0,486.0,359.0,367.0,336.0
+DK710,Business and Management,120.0,120.0,120.0,120.0,120.0,,120.0
+DK711,Business and Technology,140.0,140.0,191.0,,191.0,131.0,210.0
+DK712,Digital Marketing and Public Relations,206.0,195.0,100.0,100.0,100.0,147.0,205.0
+DK721,Computing,120.0,120.0,106.0,106.0,106.0,120.0,140.0
+DK722,Augmented and Virtual Reality,207.0,207.0,144.0,144.0,144.0,,
+DK730,Building Surveying,243.0,204.0,165.0,,165.0,,
+DK731,Architectural Technology,253.0,210.0,332.0,,332.0,184.0,200.0
+DK732,Construction Management,243.0,229.0,120.0,,120.0,138.0,157.0
+DK740,Engineering - Electrical and Electronic Systems,163.0,163.0,179.0,179.0,179.0,176.0,184.0
+DK742,Engineering - Mechanical Engineering,166.0,166.0,166.0,166.0,166.0,120.0,140.0
+DK744,Engineering - Civil Engineering,165.0,165.0,190.0,157.0,157.0,183.0,183.0
+DK750,Hospitality Management,223.0,157.0,176.0,176.0,176.0,194.0,190.0
+DK752,Event Management,224.0,211.0,175.0,175.0,175.0,,168.0
+DK753,Culinary Arts,192.0,192.0,182.0,182.0,182.0,165.0,198.0
+DK763,Sport  Exercise and Enterprise,205.0,165.0,233.0,,225.0,200.0,204.0
+DK767,Community Youth Work (interview),240.0,240.0,240.0,240.0,240.0,280.0,240.0
+DK768,Audio and Music Production,329.0,285.0,261.0,,261.0,290.0,
+DK769,Creative Media,265.0,209.0,165.0,165.0,165.0,140.0,140.0
+DK770,Theatre and Film Practice,140.0,140.0,190.0,190.0,190.0,175.0,194.0
+DK771,Musical Theatre (audition),,,,,,,
+DK781,Science - Bioscience,376.0,,358.0,328.0,208.0,268.0,191.0
+DK783,Science - Pharmaceutical Science,346.0,,349.0,317.0,210.0,265.0,169.0
+DK784,Veterinary Nursing,451.0,430.0,399.0,,399.0,347.0,379.0
+GA160,Business (Level 6),168.0,168.0,163.0,163.0,163.0,162.0,161.0
+GA170,Business (Level 7),252.0,,250.0,,250.0,246.0,245.0
+GA171,Business Information Systems,253.0,,250.0,,250.0,246.0,249.0
+GA172,Rural Enterprise and Agri-Business,278.0,,277.0,,277.0,278.0,274.0
+GA174,Marketing and Sales,278.0,,281.0,,282.0,283.0,281.0
+GA175,Finance,318.0,,278.0,,278.0,301.0,280.0
+GA176,Business with Entrepreneurship,278.0,,278.0,,278.0,272.0,273.0
+GA272,Heritage Studies,174.0,174.0,188.0,188.0,188.0,160.0,161.0
+GA273,Contemporary Art (portfolio),775.0,,702.0,,702.0,205.0,215.0
+GA274,Design,271.0,,251.0,,251.0,214.0,225.0
+GA360,Business in Tourism,171.0,,172.0,172.0,172.0,185.0,189.0
+GA361,Culinary Arts,181.0,,193.0,,193.0,162.0,198.0
+GA362,Hotel and Hospitality Operations,162.0,162.0,240.0,228.0,228.0,187.0,171.0
+GA364,Heritage Studies,252.0,252.0,252.0,252.0,252.0,170.0,254.0
+GA370,Hotel and Catering Management,163.0,163.0,198.0,,198.0,170.0,164.0
+GA376,Event Management with Public Relations,216.0,,206.0,187.0,187.0,210.0,200.0
+GA377,International Tourism Management,180.0,180.0,172.0,,172.0,176.0,162.0
+GA378,Culinary and Gastronomic Science,200.0,160.0,219.0,,219.0,160.0,189.0
+GA470,Construction Management,246.0,,244.0,243.0,243.0,243.0,242.0
+GA471,Quantity Surveying and Construction Economics,234.0,,200.0,,200.0,205.0,206.0
+GA472,Architectural Technology,260.0,,226.0,,226.0,200.0,228.0
+GA473,Civil Engineering,304.0,,241.0,,241.0,247.0,241.0
+GA570,Software and Electronic Engineering,225.0,,224.0,,224.0,204.0,207.0
+GA670,Mechanical Engineering,294.0,,265.0,,265.0,261.0,260.0
+GA673,Energy Engineering,279.0,,260.0,,260.0,275.0,242.0
+GA674,Biomedical Engineering,308.0,,298.0,,298.0,303.0,308.0
+GA675,Agricultural Engineering,290.0,,298.0,,298.0,282.0,280.0
+GA676,Engineering (Common Entry to Manu/Agri/Biomed/Ener,304.0,,290.0,,290.0,291.0,290.0
+GA677,Manufacturing Engineering Design,308.0,,235.0,,235.0,235.0,216.0
+GA770,Applied Freshwater and Marine Biology,303.0,,280.0,,280.0,280.0,280.0
+GA771,Applied Biology and Biopharmaceutical Science,302.0,,280.0,,280.0,280.0,280.0
+GA772,Chemical and Pharmaceutical Science,310.0,,280.0,,280.0,293.0,280.0
+GA773,Physics and Instrumentation,302.0,,299.0,,299.0,308.0,305.0
+GA774,Science (Undenominated),302.0,,289.0,,289.0,288.0,280.0
+GA775,Computing in Software Development,280.0,,260.0,,260.0,261.0,260.0
+GA776,Computing and Digital Media,244.0,,241.0,,241.0,240.0,240.0
+GA777,Agriculture and Environmental Management,281.0,,281.0,,281.0,290.0,290.0
+GA862,History and Geography,195.0,195.0,178.0,,178.0,161.0,186.0
+GA864,Early Childhood Education and Care,170.0,170.0,214.0,204.0,204.0,,
+GA870,Outdoor Education and Leisure,166.0,166.0,182.0,171.0,171.0,161.0,171.0
+GA871,Early Childhood Education and Care,196.0,,190.0,,190.0,190.0,200.0
+GA872,Culture and Environment,201.0,,196.0,,196.0,224.0,228.0
+GA876,Community Development and Youth Work (Level 7),,,,,,,
+GA879,Applied Social Care,241.0,,244.0,,244.0,242.0,262.0
+GA970,Furniture Design and Manufacture,302.0,,,,,225.0,236.0
+GA971,Furniture Making and Architectural Woodworking,369.0,,,,,200.0,192.0
+GA973,Furniture and Digital Manufacturing,,,,,,,
+GA974,Furniture Design  Making and Technology - Common E,422.0,,214.0,,214.0,,
+GB001,Business,,,,,115.0,,144.0
+LY107,Business - Common Entry,189.0,189.0,161.0,161.0,161.0,162.0,169.0
+LY206,Sports Studies,147.0,126.0,149.0,148.0,148.0,137.0,137.0
+LY207,Law with Criminal Justice,161.0,161.0,160.0,160.0,160.0,160.0,160.0
+LY317,Culinary Arts,205.0,186.0,229.0,224.0,224.0,170.0,178.0
+LY327,Hospitality And Tourism - Common Entry,180.0,178.0,170.0,170.0,170.0,162.0,169.0
+LY427,Digital Film and Video,217.0,217.0,172.0,170.0,172.0,170.0,172.0
+LY437,Animation,183.0,,198.0,223.0,198.0,169.0,218.0
+LY447,Fashion with Promotion,189.0,,266.0,279.0,266.0,266.0,206.0
+LY457,Graphic and Digital Design,188.0,188.0,179.0,204.0,189.0,171.0,180.0
+LY507,Quantity Surveying,204.0,163.0,181.0,181.0,181.0,164.0,166.0
+LY527,Civil Engineering,164.0,164.0,165.0,163.0,163.0,166.0,176.0
+LY606,Electric Vehicle Engineering,216.0,149.0,,,,,
+LY607,Electronic Engineering,198.0,198.0,160.0,,160.0,187.0,164.0
+LY617,Mechanical Engineering,163.0,163.0,180.0,180.0,180.0,180.0,199.0
+LY707,Computer Games Development,206.0,,204.0,,204.0,234.0,198.0
+LY717,Computing,180.0,160.0,164.0,160.0,160.0,181.0,165.0
+LY737,Computer Security and Digital Forensics,161.0,161.0,169.0,169.0,169.0,172.0,169.0
+LY806,Pharmacy Technician,172.0,172.0,232.0,,232.0,216.0,140.0
+LY816,Dental Nursing,180.0,,233.0,223.0,223.0,180.0,173.0
+LY817,Bioscience,250.0,,248.0,,248.0,237.0,258.0
+LY826,Health Science with Physiotherapy Studies,487.0,476.0,456.0,401.0,339.0,309.0,
+LY836,Health Science with Occupational Therapy Studies,451.0,433.0,473.0,408.0,278.0,245.0,
+LY837,Food Science and Nutrition,215.0,215.0,194.0,194.0,194.0,165.0,189.0
+LY846,Health Science with Dietetics Studies,336.0,264.0,316.0,316.0,291.0,316.0,
+LY847,Veterinary Nursing,389.0,,367.0,367.0,367.0,347.0,356.0
+LY867,Pharmaceutical and Medicinal Science,179.0,170.0,163.0,163.0,163.0,181.0,163.0
+LY877,Agriculture,200.0,,202.0,181.0,181.0,188.0,204.0
+LY906,Early Childhood Care  Health and Education,154.0,,205.0,161.0,161.0,135.0,109.0
+LY916,Health and Social Care,195.0,180.0,181.0,,181.0,147.0,108.0
+LC221,Accounting and Finance,243.0,,241.0,,251.0,233.0,252.0
+LC222,Marketing and Management,259.0,,270.0,,270.0,270.0,299.0
+LC228,Sports Development and Coaching,214.0,,205.0,,205.0,253.0,250.0
+LC230,Business with Computing,241.0,224.0,217.0,,217.0,232.0,250.0
+LC235,Internet Systems Development,207.0,,205.0,,205.0,226.0,213.0
+LC251,Civil Engineering,205.0,,206.0,,206.0,200.0,200.0
+LC260,Applied Biology,338.0,,326.0,,326.0,260.0,227.0
+LC267,Forensic and Pharmaceutical Sciences,400.0,,329.0,,329.0,278.0,279.0
+LC268,Medical Technology,384.0,,289.0,,289.0,287.0,233.0
+LC270,Music Technology and Production,354.0,,307.0,,307.0,327.0,327.0
+LC271,Electrical Engineering,329.0,316.0,261.0,,261.0,241.0,241.0
+LC276,Creative Broadcast and Film Production,310.0,300.0,297.0,,297.0,300.0,289.0
+LC277,Industrial Automation and Robotic Systems,261.0,,232.0,,232.0,226.0,211.0
+LC278,Renewable and Electrical Energy Engineering,306.0,283.0,280.0,,280.0,317.0,215.0
+LC279,Electronic Engineering with Computer Systems,242.0,,214.0,,226.0,200.0,221.0
+LC281,Automobile Technology,277.0,,208.0,,208.0,208.0,198.0
+LC283,Precision Engineering,207.0,,227.0,,233.0,242.0,211.0
+LC284,Agricultural Mechanisation at Salesian Agricultura,192.0,,200.0,,200.0,209.0,189.0
+LC285,Mechanical Engineering,299.0,292.0,272.0,,272.0,242.0,236.0
+LC286,Road Transport Technology and Management,294.0,,264.0,,264.0,186.0,231.0
+LC290,Sports Development Performance,208.0,,188.0,,188.0,155.0,201.0
+LC322,Enterprise and Innovation,228.0,,,,,,
+LC336,Computing,219.0,,207.0,,222.0,,
+LC396,Beauty and Spa Services,319.0,309.0,,,,,
+LC397,Business Studies with Sports,233.0,,,,,,
+LC398,Culinary Arts,215.0,,163.0,,163.0,,
+LC399,Hospitality Supervision,137.0,,148.0,,148.0,,
+LC415,Business,172.0,,197.0,,197.0,,
+LC423,Applied Strength and Conditioning,145.0,,157.0,,157.0,169.0,234.0
+LC425,Environmental Science,229.0,,278.0,,278.0,201.0,246.0
+LC504,Creative Media and Design,155.0,,192.0,,192.0,126.0,180.0
+LC602,Social Care Work,251.0,,260.0,,260.0,222.0,311.0
+LM180,Equine Science,351.0,,337.0,,328.0,338.0,301.0
+SG101,Business,167.0,120.0,160.0,160.0,160.0,,112.0
+SG102,Computing (Level 6 - General Entry),254.0,,254.0,,254.0,190.0,105.0
+SG131,Computing - Games Development,271.0,,280.0,,280.0,168.0,198.0
+SG134,Applied Sport with Business,200.0,,215.0,,215.0,,
+SG135,Business in Tourism with Event Management,194.0,,187.0,,187.0,187.0,153.0
+SG136,Computing - Software Development,279.0,,272.0,,272.0,207.0,207.0
+SG137,Computing in Computer Networks and Cyber Security,262.0,,324.0,,326.0,244.0,205.0
+SG138,Computing (Level 7 - General Entry),299.0,,260.0,,260.0,271.0,236.0
+SG139,Business in Marketing,269.0,,,,,,
+SG231,Fine Art,375.0,375.0,449.0,449.0,449.0,248.0,345.0
+SG232,Creative Design,270.0,,273.0,,276.0,207.0,206.0
+SG235,Performing Arts (Theatre Design),205.0,,319.0,,319.0,216.0,271.0
+SG236,Performing Arts (Acting),204.0,,235.0,,235.0,225.0,224.0
+SG300,Engineering (General Entry),202.0,163.0,209.0,,209.0,177.0,189.0
+SG302,Construction Economics,174.0,,184.0,,184.0,161.0,189.0
+SG308,Applied Construction Technology,199.0,130.0,171.0,,171.0,328.0,
+SG330,Engineering (General Entry),262.0,,243.0,,243.0,233.0,250.0
+SG331,Interior Architecture and Design,222.0,,236.0,,236.0,213.0,206.0
+SG332,Advanced Wood and Sustainable Building Technology,217.0,,208.0,,208.0,180.0,170.0
+SG333,Mechanical Engineering,225.0,,216.0,,216.0,216.0,208.0
+SG334,Mechatronic Engineering,290.0,,290.0,,290.0,288.0,292.0
+SG335,Engineering in Mechatronic Systems (Interview  Wor,,,,,,,
+SG336,Precision Engineering and Design,341.0,,309.0,,309.0,263.0,320.0
+SG338,Civil Engineering,226.0,,245.0,,245.0,226.0,196.0
+SG339,Quantity Surveying,216.0,,195.0,,195.0,188.0,188.0
+SG401,Science,282.0,128.0,209.0,209.0,209.0,175.0,122.0
+SG404,Environmental Science with Ecology (Level 6),388.0,,264.0,264.0,358.0,,
+SG406,Health and Exercise Science,396.0,,367.0,,367.0,397.0,
+SG431,Pharmaceutical Science with Drug Development,287.0,,269.0,,269.0,262.0,268.0
+SG433,Occupational Safety and Health,243.0,,223.0,,223.0,224.0,226.0
+SG434,Human Nutrition,299.0,,280.0,,280.0,288.0,297.0
+SG435,Health Science and Physiology,296.0,,289.0,,289.0,288.0,298.0
+SG436,Biomedical Science,260.0,,262.0,,262.0,268.0,261.0
+SG437,Forensic Investigation and Analysis,252.0,,243.0,,243.0,237.0,240.0
+SG439,Environmental Science with Ecology (Level 7),253.0,,254.0,,254.0,,
+SG530,Health and Medical Information Science (Online),387.0,,285.0,285.0,285.0,,
+SG535,Business Administration,241.0,,228.0,,228.0,186.0,236.0
+SG536,Business,233.0,,223.0,,223.0,183.0,188.0
+TL651,Science - Biological and Environmental Studies,215.0,,223.0,223.0,233.0,207.0,232.0
+TL652,Science - Pharmacy Technician,222.0,,260.0,,260.0,250.0,258.0
+TL701,Animation  Visual Effects and Motion Design (Level,,,228.0,,228.0,,
+TL702,TV  Radio and New Media (Level 7),222.0,,243.0,,243.0,,
+TL710,Computing with Software Development,297.0,,232.0,,232.0,209.0,204.0
+TL711,Computing with Games Development,238.0,,224.0,,224.0,202.0,205.0
+TL715,Computing (Degree Award options),261.0,,251.0,,251.0,214.0,213.0
+TL716,Computer Systems and Networking,227.0,,269.0,,269.0,309.0,
+TL731,Business (Major Specialism in: Acctng or Mktg or M,232.0,,219.0,,219.0,207.0,212.0
+TL742,Construction Management,,,,,,,
+TL744,Agricultural Engineering,220.0,,243.0,,243.0,228.0,251.0
+TL745,Civil Engineering,243.0,243.0,261.0,261.0,145.0,208.0,280.0
+TL747,Mechanical and Automation Engineering,254.0,,200.0,,200.0,,221.0
+TL748,Agricultural Science,233.0,,249.0,,249.0,271.0,260.0
+TL755,Pharmaceutical Science (Degree Award options),228.0,,261.0,,261.0,259.0,244.0
+TL758,Animal Bioscience,234.0,,251.0,,261.0,250.0,260.0
+TL771,Health and Leisure (Degree Award Options),211.0,,208.0,,208.0,215.0,204.0
+TL772,Health and Leisure with Massage,236.0,,218.0,,218.0,216.0,219.0
+TL773,Coaching and Sports Performance,207.0,,106.0,106.0,106.0,120.0,
+TL774,Inclusive Sport and Physical Activity,121.0,121.0,,,,,
+TL780,Early Childhood Care and Education,100.0,100.0,234.0,,234.0,201.0,206.0
+TL781,Social Care,261.0,,225.0,,225.0,215.0,208.0
+WD003,Business,,,,171.0,,136.0,186.0
+WD010,Electronic Engineering,419.0,,181.0,,181.0,224.0,193.0
+WD011,Mechanical Engineering,170.0,,198.0,,198.0,200.0,211.0
+WD013,Legal Studies,,206.0,177.0,,177.0,170.0,171.0
+WD018,Applied Social Care,181.0,,171.0,,171.0,180.0,188.0
+WD019,Recreation and Sport Management,,,174.0,,174.0,181.0,180.0
+WD076,Forestry,216.0,,243.0,,243.0,181.0,215.0
+WD094,Architectural Technology,176.0,,166.0,150.0,150.0,201.0,200.0
+WD096,Horticulture (Waterford - Kildalton),226.0,,260.0,,260.0,260.0,206.0
+WD097,Horticulture (Dublin - National Botanic Gardens),223.0,,,,,209.0,240.0
+WD126,Agriculture,328.0,,327.0,,327.0,356.0,367.0
+WD151,Software Systems Development,165.0,,,,,180.0,195.0
+WD153,Multimedia Applications Development,195.0,,163.0,,163.0,170.0,186.0
+WD155,Information Technology,195.0,,211.0,,211.0,121.0,182.0
+WD159,Business,191.0,,195.0,,195.0,200.0,206.0
+WD164,Food Science with Business,328.0,,309.0,,309.0,222.0,216.0
+WD172,Culinary Arts,,,,,,142.0,161.0
+WD173,Hospitality Studies,158.0,,,,,182.0,171.0
+WD174,Tourism,,,,,,134.0,
+WD175,Pharmaceutical Science,224.0,,226.0,,226.0,207.0,206.0
+WD177,Science (Mol. Biology with Biopharm. Food Science,205.0,455.0,222.0,,222.0,213.0,283.0
+WD182,Electrical Engineering,,,,,,188.0,189.0
+WD184,Retail Management,190.0,,163.0,,163.0,190.0,180.0
+WD188,Applied Health Care,220.0,,201.0,,201.0,206.0,242.0
+WD205,Molecular Biology with Biopharmaceutical Science,,262.0,228.0,,228.0,208.0,217.0
+WD206,Electronic Engineering,180.0,,179.0,,179.0,191.0,175.0
+WD207,Mechanical Engineering,172.0,,198.0,,198.0,179.0,182.0
+WD208,Manufacturing Engineering,317.0,,188.0,,188.0,195.0,180.0
+AL600,Software Design,,,,,104.0,205.0,
+AL601,Computer Engineering,,,,219.0,112.0,196.0,240.0
+AL602,Mechanical Engineering,,,,,260.0,258.0,201.0
+AL604,Civil Engineering,,,,,,252.0,243.0
+CI001,Counselling Skills and Psychotherapy Studies,,,300.0,,300.0,238.0,152.0
+CI002,Counselling Skills and Addiction Studies,,,309.0,,309.0,236.0,168.0
+CI005,Counselling Skills and Youth Studies,,,306.0,302.0,302.0,233.0,171.0
+CT110,Computing in Information Technology,,,210.0,,210.0,171.0,130.0
+CT116,Information Technology,,,219.0,,219.0,178.0,170.0
+DS603,Computing and Multimedia (Level 6 - Certificate),,,,,423.0,341.0,206.0
+GC306,International Hospitality Management,,,253.0,253.0,253.0,,338.0
+LC257,Interior Design,,,264.0,,264.0,231.0,225.0
+LC428,Environmental Science and Agriculture,,,278.0,,278.0,226.0,233.0
+LC432,Early Childhood Education and Care,,,144.0,,144.0,163.0,144.0
+LC603,Early Childhood Education and Care,,,147.0,,174.0,126.0,122.0
+LC605,Business,,,195.0,,195.0,,
+SG537,Marketing and Sales,,,234.0,,234.0,121.0,140.0
+TL620,Culinary Arts,,,189.0,189.0,189.0,128.0,101.0
+TL743,Agricultural Mechanisation,,,,,,,
+TU601,Electronic Engineering,,,232.0,,230.0,,
+TU602,Computer Engineering,,,223.0,,223.0,,
+TU603,Mechanical Engineering,,,197.0,197.0,197.0,,
+TU653,Computing (Information Technology),,,245.0,,245.0,,
+TU671,Business,,,226.0,,228.0,,
+TU672,Business (Common entry),,,180.0,179.0,179.0,,
+TU707,Electronic Engineering,,,224.0,224.0,224.0,,
+TU710,Engineering Reliability Management,,,244.0,,244.0,,
+TU712,Sustainable Energy and Environmental Engineering,,,180.0,180.0,180.0,,
+TU715,Engineering Software,,,181.0,181.0,181.0,,
+TU718,Mechanical Engineering,,,198.0,198.0,198.0,,
+TU732,Timber Product Technology,,,253.0,198.0,198.0,,
+TU759,Information Technology Management,,,211.0,,211.0,,
+TU771,Business,,,224.0,,224.0,,
+TU774,Management,,,195.0,209.0,195.0,,
+TU775,Accounting and Finance,,,260.0,,260.0,,
+TU776,Accounting and Finance,,,182.0,175.0,175.0,,
+TU777,Business and Information Technology,,,244.0,,244.0,,
+TU778,International Business,,,224.0,,226.0,,
+TU779,International Business,,,180.0,180.0,180.0,,
+TU783,Marketing,,,189.0,189.0,189.0,,
+TU793,Early Childhood Care and Education,,,220.0,,220.0,,
+TU794,Early Childhood Care and Education,,,390.0,250.0,230.0,,
+WD139,Civil Engineering,,,206.0,,206.0,200.0,194.0
+AL651,Music and Instrument Technology,,,,,,,
+CW017,Applied Social Studies - Professional Social Care (Wexford),,,,,,224.0,162.0
+CW927,Business Administration,,,,,,205.0,242.0
+CT316,Business,,,,,,180.0,
+DB513,Business,,,,,,117.0,190.0
+DB522,Business in Accounting,,,,,,112.0,197.0
+DB533,Business in Marketing,,,,,,112.0,187.0
+DB575,Social Studies,,,,,,120.0,158.0
+DB580,Legal Studies,,,,,,108.0,122.0
+DB581,Legal and Business Studies,,,,,,156.0,195.0
+DB582,Legal Studies,,,,,,108.0,144.0
+DB583,Legal and Business Studies,,,,,,190.0,172.0
+DT002,Engineering Reliability Management,,,,,,234.0,226.0
+DT003,Automation Engineering,,,,,,270.0,270.0
+DT004,Civil Engineering,,,,,,243.0,242.0
+DT005,Building Engineering,,,,,,260.0,231.0
+DT006,Mechanical Engineering,,,,,,301.0,301.0
+DT007,Automotive Management and Technology,,,,,,240.0,242.0
+DT008,Electronics and Communications Engineering,,,,,,241.0,242.0
+DT009,Electrical and Control Engineering,,,,,,241.0,253.0
+DT010,Electrical Services Engineering,,,,,,243.0,233.0
+DT011,Aviation Technology,,,,,,346.0,341.0
+DT080,Networking Technologies,,,,,,241.0,241.0
+DT097,Engineering (General Entry),,,,,,370.0,371.0
+DT104,"Auctioneering, Valuation and Estate Agency",,,,,,290.0,300.0
+DT169,Timber Product Technology,,,,,,244.0,234.0
+DT212,Science (General Entry),,,,,,380.0,390.0
+DT219,Ophthalmic Dispensing,,,,,,302.0,302.0
+DT259,Biosciences,,,,,,400.0,400.0
+DT260,Industrial and Environmental Physics,,,,,,260.0,267.0
+DT261,Medicinal Chemistry and Pharmaceutical Sciences,,,,,,388.0,371.0
+DT303,Marketing,,,,,,320.0,340.0
+DT315,Business Studies,,,,,,320.0,330.0
+DT324,Business Management,,,,,,325.0,330.0
+DT360,Retail Management and Marketing,,,,,,290.0,296.0
+DT404,Food Management and Entrepreneurship,,,,,,268.0,
+DT406,Tourism Management,,,,,,260.0,250.0
+DT408,Hospitality Management,,,,,,250.0,250.0
+DT411,Leisure Management,,,,,,250.0,254.0
+DT418,Baking and Pastry Arts Management,,,,,,240.0,242.0
+DT424,Food Science and Management,,,,,,270.0,270.0
+DT425,Pharmacy Technician Studies,,,,,,336.0,316.0
+DT426,Bar and Restaurant Management,,,,,,241.0,242.0
+DT432,Culinary Arts (Professional Cookery Practice),,,,,,242.0,241.0
+DT598,Visual Merchandising and Display,,,,,,463.0,517.0
+GC265,Journalism (Cork),,,,,,,118.0
+GC406,International Hospitality Management (Dublin),,,,,,189.0,173.0
+GC416,Business (Dublin),,,,,,142.0,
+GC425,Legal Studies (Dublin),,,,,,,147.0
+BN001,Computer Engineering,,,,,,180.0,198.0
+BN002,Computing (Information Technology),,,,,,182.0,186.0
+BN003,Business,,,,,,180.0,180.0
+BN009,Mechatronic Engineering,,,,,,191.0,181.0
+BN010,Business and Information Technology,,,,,,183.0,191.0
+BN011,Applied Social Studies in Social Care,,,,,,270.0,250.0
+BN012,Computer Engineering,,,,,,180.0,182.0
+BN013,Computing (Information Technology),,,,,,108.0,108.0
+BN014,Business,,,,,,182.0,192.0
+BN015,Engineering (Common Entry with Award options),,,,,,126.0,137.0
+BN016,Business (Common Entry with Award options),,,,,,138.0,137.0
+BN017,International Business,,,,,,180.0,188.0
+BN020,Sports Management and Coaching,,,,,,232.0,230.0
+BN021,Creative Digital Media,,,,,,180.0,
+BN022,Horticulture,,,,,,187.0,189.0
+BN023,Accounting and Finance,,,,,,241.0,
+BN025,Community and Youth Development,,,,,,152.0,112.0
+BN030,Early Childhood Care and Education,,,,,,231.0,210.0
+BN034,Digital Forensics and Cyber Security,,,,,,198.0,188.0
+BN040,Digital Marketing,,,,,,180.0,187.0
+BN049,"Design,Technology and Innovation",,,,,,203.0,
+TA006,Culinary Arts (Level 6),,,,,,133.0,100.0
+TA014,Advertising and Marketing Communications,,,,,,288.0,620.0
+TA015,International Hospitality and Tourism Management,,,,,,140.0,140.0
+TA016,Culinary Arts (Level 7),,,,,,190.0,
+TA106,Business (Common entry),,,,,,179.0,162.0
+TA111,Accounting and Finance,,,,,,185.0,170.0
+TA113,Management,,,,,,171.0,144.0
+TA114,Marketing,,,,,,171.0,163.0
+TA116,International Business,,,,,,184.0,191.0
+TA117,Digital Marketing,,,,,,180.0,121.0
+TA201,Electronic Engineering,,,,,,215.0,200.0
+TA203,Mechanical Engineering,,,,,,187.0,159.0
+TA213,Mechanical Engineering,,,,,,186.0,226.0
+TA215,Sustainable Energy and Environmental Engineering,,,,,,196.0,198.0
+TA216,Electronic Engineering,,,,,,201.0,214.0
+TA218,Biomedical Design,,,,,,208.0,203.0
+TA219,Engineering Software,,,,,,233.0,244.0
+TA301,Applied Biology,,,,,,204.0,189.0
+TA302,Computing,,,,,,180.0,205.0
+TA311,Bioanalysis,,,,,,200.0,179.0
+TA312,Computing,,,,,,204.0,189.0
+TA313,Information Technology Management,,,,,,198.0,198.0
+TA314,Pharmaceutical Science,,,,,,250.0,187.0
+TA315,DNA and Forensic Analysis,,,,,,280.0,205.0
+TA316,Sports Science and Health,,,,,,331.0,280.0
+NC105,Data Science,,,,,,297.0,
+GA375,Retail Management,,,,,,180.0,164.0
+LY116,"Business - Administration, IT and Customer Service",,,,,,179.0,136.0
+LY336,"Bar and Restaurant Supervision at Killybegs, Co Donegal",,,,,,,118.0
+LY406,Photography,,,,,,,
+LY517,Building Services and Renewable Energy,,,,,,210.0,
+LY547,Architectural Technology,,,,,,182.0,164.0
+LC253,Construction,,,,,,172.0,162.0
+LC296,Hotel Front Office Management,,,,,,178.0,146.0
+LC298,Culinary Arts,,,,,,148.0,146.0
+LC299,Hospitality Studies,,,,,,146.0,117.0
+LC413,Marketing and Management (Thurles),,,,,,136.0,
+SG105,Business in Office Administration,,,,,,,
+SG108,Business in Accounting,,,,,,213.0,216.0
+SG301,Civil Engineering,,,,,,190.0,143.0
+SG303,Mechanical Engineering,,,,,,,178.0
+SG305,Electronic and Computer Engineering,,,,,,179.0,198.0
+SG306,Mechatronics,,,,,,260.0,242.0
+SG337,Electronic and Computer Engineering,,,,,,255.0,261.0
+SG403,Applied Archaeology,,,,,,297.0,214.0
+SG432,Environmental Protection,,,,,,279.0,234.0
+SG438,Applied Archaeology,,,,,,279.0,225.0
+TL712,Computing with Digital Media,,,,,,243.0,278.0
+TL719,Culinary Arts,,,,,,321.0,273.0
+TL746,Engineering in Mechatronics Engineering,,,,,,,
+AL652,Business in Equine,,,,,,,
+AL733,Forensic Toxicology,,,,,,,215.0
+CW046,Computing (Wexford),,,,,,,
+GC240,Computing (Cork),,,,,,,164.0
+GC311,Business (Limerick),,,,,,,175.0
+GC316,Business (Limerick),,,,,,,379.0
+GC340,Computing (Limerick),,,,,,,393.0
+GC440,Computing (Dublin),,,,,,,142.0
+GC487,Animation (Dublin),,,,,,,150.0
+DK615,Front Office Management and Business Administration,,,,,,,
+DK620,Computing and Business,,,,,,,
+DK640,Applied Engineering,,,,,,,
+DK650,Culinary Arts,,,,,,,104.0
+DK651,Hospitality Studies,,,,,,,
+GA860,Business - Mayo Campus,,,,,,,
+GA869,Business with Administration and ICT Skills - Mayo Campus,,,,,,,
+GA875,Sustainable Building Technology - Mayo Campus,,,,,,,173.0
+GA877,Business - Mayo Campus,,,,,,,
+GA878,Accounting and Financial Management - Mayo Campus,,,,,,,171.0
+LY346,"Culinary Arts at Killybegs, Co Donegal",,,,,,,116.0
+LC111,Design in Fashion and Textiles for Product and Costume (Portfolio),,,,,,,760.0
+LC244,Sustainable Building and Energy Engineering,,,,,,,298.0
+LC412,Business (Marketing and Management - Thurles),,,,,,,195.0
+LC515,Digital Animation Production (Portfolio - Clonmel),,,,,,,802.0
+LC516,Game Art and Design Production (Portfolio - Clonmel),,,,,,,767.0
+SG307,Precision Engineering and Design,,,,,,,240.0
+SG539,Digital Marketing,,,,,,,182.0
+TL605,Business Information Management,,,,,,,225.0
+TL621,Hotel Operations,,,,,,,100.0
+TL622,Travel and Tourism Studies,,,,,,,254.0
+TL720,Travel and Tourism Management,,,,,,,261.0
+WD040,Building Services Engineering,,,,,,,223.0
+WD209,Building Services Engineering,,,,,,,220.0
