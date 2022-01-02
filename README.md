@@ -4,9 +4,11 @@
 
 This repository contains two Python Jupyter notebooks. The first takes a look at the matplotlib.pyplot Python package, while the second imports and analysis data from the CAO for the years 2018-2021. The folders contain files that were saved from corresponding notebooks, and in the case of the pyplot notebook, there is a spreadsheet in the pyplot folder that is loaded to the notebook and necessary for the code to run.  
 
-A rendered version of both the pyplot and CAO notebooks can be viewed using nbviewer:
-pyplot - https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/pyplot.ipynb
-CAO - https://github.com/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb
+A rendered version of both the pyplot and CAO notebooks can be viewed using nbviewer:  
+
+pyplot - https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/pyplot.ipynb    
+
+CAO - https://github.com/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb     
 
 This repository is part of an assignment for the module Fundamentals of Data Analysis, for the course HDip in Computing in Data Analytics in GMIT. The assignment overview is as follows: 
 
