@@ -6,9 +6,11 @@ This repository contains two Python Jupyter notebooks. The first takes a look at
 
 A rendered version of both the pyplot and CAO notebooks can be viewed using nbviewer:  
 
-pyplot - https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/pyplot.ipynb    
+pyplot    
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/pyplot.ipynb)   
 
-CAO - https://github.com/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb     
+CAO   
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://github.com/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb)   
 
 This repository is part of an assignment for the module Fundamentals of Data Analysis, for the course HDip in Computing in Data Analytics in GMIT. The assignment overview is as follows: 
 
