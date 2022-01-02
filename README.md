@@ -10,7 +10,7 @@ pyplot
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/pyplot.ipynb)   
 
 CAO   
-[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://github.com/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb)   
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/andrewjscott/Fundamentals-of-Data-Analysis-Assignment/blob/main/cao.ipynb)   
 
 This repository is part of an assignment for the module Fundamentals of Data Analysis, for the course HDip in Computing in Data Analytics in GMIT. The assignment overview is as follows: 
 
